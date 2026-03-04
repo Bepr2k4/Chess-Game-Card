@@ -1,0 +1,12 @@
+{
+    "audio": {
+        "master_volume": 0.8,
+        "music_volume": 0.7,
+        "sfx_volume": 0.9
+    },
+    "graphics": {
+        "fullscreen": false,
+        "v_sync": true,
+        "resolution": "1600x900"
+    }
+}

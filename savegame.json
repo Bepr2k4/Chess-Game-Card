@@ -1,0 +1,34 @@
+{
+    "id": "OJ29GXAN-1765786153",
+    "seed": "OJ29GXAN",
+    "stage": 4,
+    "player_gold": 137,
+    "player_cards": [
+        {
+            "id": "blessing_bloodthirst",
+            "name": "\u1ea4n K\u00fd Kh\u00e1t M\u00e1u",
+            "price": 40,
+            "rarity": "Legendary",
+            "type": "trap",
+            "uses": 0,
+            "trigger": "on_attack",
+            "effect": "gain_shield",
+            "description": "Y\u1ec3m \u1ea5n k\u00fd l\u00ean m\u1ed9t qu\u00e2n c\u1edd. N\u1ebfu n\u00f3 \u0103n \u0111\u01b0\u1ee3c 2 qu\u00e2n \u0111\u1ecbch, n\u00f3 s\u1ebd nh\u1eadn \u0111\u01b0\u1ee3c m\u1ed9t Khi\u00ean Ph\u00e9p (mi\u1ec5n nhi\u1ec5m 1 l\u1ea7n b\u1ecb \u0103n).",
+            "active": true
+        },
+        {
+            "id": "trap_vengeance",
+            "name": "B\u1eaby \u0110\u1ed3ng Quy Vu T\u1eadn",
+            "price": 22,
+            "rarity": "Rare",
+            "type": "trap",
+            "uses": 0,
+            "trigger": "on_capture",
+            "effect": "destroy_attacker_type",
+            "description": "Nguy\u1ec1n r\u1ee7a m\u1ed9t qu\u00e2n c\u1edd. N\u1ebfu b\u1ecb \u0111\u1ed1i th\u1ee7 \u0103n, \u0111\u1ed1i th\u1ee7 c\u0169ng s\u1ebd m\u1ea5t m\u1ed9t qu\u00e2n c\u1edd c\u00f9ng lo\u1ea1i.",
+            "active": false
+        }
+    ],
+    "reroll_cost": 5,
+    "reroll_count": 0
+}
